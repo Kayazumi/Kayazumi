@@ -22,7 +22,12 @@ I build educational workflows, system models, and technical documentation with a
 * C#
 * HTML + CSS + JavaScript
 * SQL
-* Srcacth
+### 🔍 Tool
+* Git
+* VS Code
+* Visual Studio
+* Cursor
+* Antigravity
 ### 🌱 Technical Domains
 * System Analysis & Design (Use Case, Data Flow).
 * AI-assisted Learning Models.
