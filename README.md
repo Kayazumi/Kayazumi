@@ -1,8 +1,10 @@
 # Hi, I'm M. Huy (Kayazumi) 👋
 ## 🎓 About Me
-* I work at the intersection of Computer Science Education, AI Research, and System Analysis.
+
+I work at the intersection of Computer Science Education, AI Research, and System Analysis.
 My focus is designing structured learning materials, AI-integrated teaching models, and practical programming guidance grounded in verified sources.
 I build educational workflows, system models, and technical documentation with an emphasis on clarity, logic, and reproducibility.
+
 ---
 ## 🔬 Research & Professional Interests
 * Artificial Intelligence in Education
