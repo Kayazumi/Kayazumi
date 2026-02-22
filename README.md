@@ -30,7 +30,7 @@ I build educational workflows, system models, and technical documentation with a
 * Educational Content Engineering.
 * Git & Documentation Structuring.
 
-### 🏢 Role & Organization
+## 🏢 Role & Organization
 * **Role**: Teacher / Educational Content Designer & Curriculum Developer.
 * **Focus Areas:** Programming education (Scratch, C++, Python), AI-integrated teaching, system modeling for educational purposes.
 * **Organization:** HCMUE.
