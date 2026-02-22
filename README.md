@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3a82dd06-053d-4c38-ad5b-f8075a072ca8" /># Hi, I'm M. Huy (Kayazumi) 👋
+# Hi, I'm M. Huy (Kayazumi) 👋
 ## 🎓 About Me
 
 I work at the intersection of Computer Science Education, AI Research, and System Analysis.
@@ -53,3 +53,4 @@ I build educational workflows, system models, and technical documentation with a
 * Objective and neutral technical communication.
 ---
 Thank you for visiting! 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3a82dd06-053d-4c38-ad5b-f8075a072ca8" />
