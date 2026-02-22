@@ -23,8 +23,7 @@ I build educational workflows, system models, and technical documentation with a
 
 ## 💻 Technical Skills
 
-### Programming Languages
-
+### 💼 Programming Languages
 * C++
 * PHP
 * C#
@@ -32,8 +31,7 @@ I build educational workflows, system models, and technical documentation with a
 * SQL
 * Srcacth
 
-### Technical Domains
-
+### 🌱 Technical Domains
 * System Analysis & Design (Use Case, Data Flow)
 * AI-assisted Learning Models
 * Scratch-based AI Prototyping
@@ -55,7 +53,6 @@ I design:
 ---
 
 ## 🧠 Current Focus
-
 * Applying AI to general education curriculum
 * Standardizing system modeling practices for teaching
 * Developing reproducible AI classroom case studies
