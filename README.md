@@ -1,1 +1,1 @@
-<img width="1080" height="940" alt="profile_galaxy_Kayazumi" src="https://github.com/user-attachments/assets/f2f15c0d-6c03-4af1-89dc-bdec93defecc" />
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/46d31de1-ea46-48c8-a918-f56dd878822c" />
